@@ -1,4 +1,4 @@
-# ecommerce_sales_project_using_Python_SQL
+# Ecommerce sales project using Python SQL
 
 This project is built using Python and MySQL to analyze an ecommerce sales dataset downloaded from Kaggle.
 The dataset is loaded into a MySQL database, and Python scripts are used to connect to the database, fetch data, and generate insights from the stored information.
